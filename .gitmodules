@@ -1,0 +1,3 @@
+[submodule "Modules/HipChat.Net"]
+	path = Modules/HipChat.Net
+	url = https://github.com/doobiwan/HipChat.net.git
